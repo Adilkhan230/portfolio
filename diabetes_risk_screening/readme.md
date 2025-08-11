@@ -29,5 +29,9 @@ Built on NHANES 2013–2016 data, it predicts individual risk before clinical di
 ## Application
 - **app.R** – R Shiny app with interactive survey and risk scoring.
 - Not hosted online due to Shiny free tier RAM limitations.
+## Demo Video
+
+A demonstration of how the project works can be viewed at the following link:  
+[▶ Watch the Demo on Google Drive](https://drive.google.com/file/d/FILE_ID/view?usp=sharing)
 
 
